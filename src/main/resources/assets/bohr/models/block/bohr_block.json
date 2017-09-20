@@ -1,0 +1,6 @@
+{
+"parent": "block/cube_all",
+  "textures": {
+    "all": "BohrMod:blocks/bohr_block"
+  }
+}
